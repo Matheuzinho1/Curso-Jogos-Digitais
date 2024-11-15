@@ -1,6 +1,6 @@
 # Curso de Desenvolvimento de Jogos - Construct 3 e Python
 
-Este repositório contém os projetos desenvolvidos durante o **curso de 6 meses** focado em **criação de jogos**. Estamos utilizando a **Construct 3** para o desenvolvimento dos jogos, juntamente com **Python** para integrar funcionalidades extras ao código.
+Este repositório contém os projetos desenvolvidos durante o **curso de 4 meses** focado em **criação de jogos**. Estamos utilizando a **Construct 3** para o desenvolvimento dos jogos, juntamente com **Python** para integrar funcionalidades extras ao código.
 
 ### Informações
 
