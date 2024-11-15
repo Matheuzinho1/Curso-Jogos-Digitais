@@ -4,7 +4,7 @@ Este repositório contém os projetos desenvolvidos durante o **curso de 6 meses
 
 ### Informações
 
-- **Curso**: 6 meses
+- **Curso**: 4 meses
 - **Ferramentas**: Construct 3, Python
 - **Data de Término**: 12/12
 
